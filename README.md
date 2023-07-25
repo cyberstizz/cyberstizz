@@ -35,8 +35,8 @@ you can find my website here [Charleslambjr.com](https://www.charleslambjr.com)
 - [Squint: A Structure for Success](https://github.com/cyberstizz/SquintV2.git) - A web app to track and achieve personal goals systematically.
 
 ### Education
-- Graduated from Full Stack Software Development Bootcamp
-- Relevant certifications in JavaScript, React, and ASP.NET
+- Studied @ Per Scholas - Full Stack Software Development Bootcamp 2020
+- Studied @ The Institute Of Audio Research - Audio Enineering 2005
 
 I'm always open to new opportunities and exciting projects. Feel free to reach out to me for collaboration or any development-related discussions. Let's build amazing things together! 😊
 
