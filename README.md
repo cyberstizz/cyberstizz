@@ -23,9 +23,12 @@ you can find my website here [Charleslambjr.com](https://www.charleslambjr.com)
 
 ### Skills & Technologies
 - JavaScript, React, Node.js
-- C#, ASP.NET, Java
-- SQL, NoSQL (MongoDB, PostgreSQL, Cassandra)
+- Java, Spring Boot
+- Python, Django
+- C#, ASP.NET, 
+- SQL, NoSQL (MongoDB, PostgreSQL, Cassandra, Sqlite)
 - Data Structures and Algorithms
+- Linux, Networking
 
 ### Projects
 - [Squint: A Structure for Success](https://github.com/cyberstizz/squint) - A web app to track and achieve personal goals systematically.
