@@ -12,7 +12,7 @@ I'm Charles, a passionate software developer with a focus on full-stack web deve
 
 💬 Ask me about how to systematically achieve any goals in your life using software and technology.
 
-📫 How to reach me: Email me at charles.lamb.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+📫 How to reach me: Email me at charles.lamb.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/charles-lamb-jr).
 
 😄 Pronouns: He/Him
 
