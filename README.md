@@ -2,6 +2,9 @@
 
 I'm Charles, a passionate software developer with a focus on full-stack web development. I enjoy building applications that make a positive impact and solve real-world problems.
 
+
+you can find my website here [Charleslambjr.com](https://www.charles.lamb.jr.com)
+
 🔭 I’m currently working on Squint, a web application that provides a structure for success in personal goal achievement.
 
 🌱 I’m currently learning ASP.NET on a deeper level, and I'm excited to apply it in future projects.
