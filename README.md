@@ -29,9 +29,10 @@ you can find my website here [Charleslambjr.com](https://www.charleslambjr.com)
 - SQL, NoSQL (MongoDB, PostgreSQL, Cassandra, Sqlite)
 - Data Structures and Algorithms
 - Linux, Networking
+- Docker, Kubernetes
 
-### Projects
-- [Squint: A Structure for Success](https://github.com/cyberstizz/squint) - A web app to track and achieve personal goals systematically.
+### Current Project
+- [Squint: A Structure for Success](https://github.com/cyberstizz/SquintV2.git) - A web app to track and achieve personal goals systematically.
 
 ### Education
 - Graduated from Full Stack Software Development Bootcamp
