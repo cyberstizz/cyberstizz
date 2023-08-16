@@ -27,7 +27,8 @@ you can find my website here [Charleslambjr.com](https://www.charleslambjr.com)
 - Java, Spring Boot
 - Python, Django
 - C#, ASP.NET, 
-- SQL, NoSQL (MongoDB, PostgreSQL, Cassandra, Sqlite)
+- PHP, Laravel,
+- SQL, NoSQL (MongoDB, PostgreSQL, MySql, Cassandra, Sqlite)
 - Data Structures and Algorithms
 - Linux, Networking
 - Docker, Kubernetes
