@@ -18,7 +18,6 @@ you can find my website here [Charleslambjr.com](https://www.charleslambjr.com)
 
 📫 How to reach me: Email me at charles.lamb.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/charles-lamb-jr).
 
-😄 Pronouns: He/Him
 
 ⚡ Fun fact: I plan on climbing the seven summits over the next 7 years, probably because I've played too much Zelda.
 
